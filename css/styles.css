@@ -1,7 +1,35 @@
 body {
     background-color: darkcyan;
 }
-hr {
+h1 {
+    font-size: 16px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width: 1mm;
+}
+h2 {
+    font-size: 16px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width: 1mm;
+}
+h3 {
+    font-size: 16px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width: 1mm;
+}
+h4 {
+    font-size: 16px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width: 1mm;
+}
+h5 {
     font-size: 16px;
     border-style: solid;
     border-color: black;
