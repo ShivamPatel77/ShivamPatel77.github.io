@@ -6,13 +6,10 @@ h1 {
     border-style: solid;
     border-color: black;
     border-width: 2px;
-    width: 1mm;
 }
 h2 {
     font-size: 16px;
-    border-style: solid;
-    border-color: black;
-    border-width: 2px;
+    border: 2px solid red;
     width: 1mm;
 }
 h3 {
