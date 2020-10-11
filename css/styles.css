@@ -1,0 +1,10 @@
+body {
+    background-color: darkcyan;
+}
+hr {
+    font-size: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width: 1mm;
+}
