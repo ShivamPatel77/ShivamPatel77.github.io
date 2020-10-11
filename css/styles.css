@@ -3,40 +3,28 @@ body {
 }
 h1 {
     font-size: 16px;
-    border-style: solid;
-    border-color: black;
-    border-width: 2px;
+        width: 1mm;
 }
 h2 {
     font-size: 16px;
-    border: 2px solid red;
     width: 1mm;
 }
 h3 {
     font-size: 16px;
-    border-style: solid;
-    border-color: black;
-    border-width: 2px;
     width: 1mm;
 }
 h4 {
     font-size: 16px;
-    border-style: solid;
-    border-color: black;
-    border-width: 2px;
     width: 1mm;
 }
 h5 {
     font-size: 16px;
-    border-style: solid;
-    border-color: black;
-    border-width: 2px;
     width: 1mm;
 }
 img {
     border-radius: 8px;
-    max-width: 100%;
-    max-height: 100%;
+    max-width: 75%;
+    max-height: 75%;
     display: block;
 }
 .box{
